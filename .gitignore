@@ -1,0 +1,4 @@
+db.sqlite3
+.env
+/media/movie_images/*
+/media/movie_videos/*
